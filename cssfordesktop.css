@@ -1,0 +1,28 @@
+:root {
+    --stylishcolour: #ffce5c;
+}
+
+.desktopnav {
+    position: fixed;
+    display: flex;
+    flex-grow: 54646;
+    justify-content: space-between;
+    top: 0;
+    width: 100%;
+    align-items: center;
+    background-color: lightblue;
+}
+
+.desktopmargin {
+    margin-top: 8em;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.mystyle {
+    background-color: var(--stylishcolour);
+    padding: 0.5em 0 0.5em 0;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
